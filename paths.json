@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-eds-prueba/:/",
-    "/content/aem-eds-prueba/configuration:/.helix/config.json",
-    "/content/aem-eds-prueba/metadata:/metadata.json"
+    "/content/andrea-aem-eds-prueba/:/",
+    "/content/andrea-aem-eds-prueba/configuration:/.helix/config.json",
+    "/content/andrea-aem-eds-prueba/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-eds-prueba/"
+    "/content/andrea-aem-eds-prueba/"
   ]
 }
